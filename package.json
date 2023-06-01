@@ -1,0 +1,25 @@
+{
+  "name": "react-native-nav-title",
+  "version": "1.0.0",
+  "description": "a react-native navigation bar component",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xb1001/react-native-nav-title.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "xubin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xb1001/react-native-nav-title/issues"
+  },
+  "homepage": "https://github.com/xb1001/react-native-nav-title#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.76.5"
+  }
+}
